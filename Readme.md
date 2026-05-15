@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Prajapati</h1><br><h3 align="center">Data Science Enthusiast | Artificial Intelligence | Machine Learning |Deep Learning | Computer Vision </h3><br><br><p align="center"><br>I am passionate about working with data and building intelligent systems using <br><b>Data Science, Artificial Intelligence, and Machine Learning</b>.  <br>I enjoy transforming raw data into meaningful insights and developing models that solve real-world problems.<br></p><br><br>---<br><br>### 🚀 About Me<br><br>* 📊 Interested in **Data Science, Machine Learning, and AI**<br>* 🧠 Building projects involving **data analysis, predictive models, and deep learning**<br>* 📈 Skilled in extracting insights from data and developing data-driven solutions<br>* ⚡ Continuously learning and improving in the **AI/ML ecosystem**<br><br>---<br><br><br>
 
 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-prajapati93/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok-Temperature7461) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26866208) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalprajapati935498@gmail.com) 
 
 # 💻 Tech Stack:

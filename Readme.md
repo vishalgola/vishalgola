@@ -47,7 +47,6 @@ I enjoy turning ideas into working systems, experimenting with different approac
 - ⚙️ **MLOps & Deployment:** MLflow, Docker, FastAPI, CI/CD, and model-serving workflows.
 - 👁️ **Computer Vision:** OpenCV, image processing, and deep learning applications.
 - 📊 **Data Science:** Exploratory data analysis, statistical analysis, and data-driven decision-making.
-- 🎓 **Education:** B.Tech in Robotics and Artificial Intelligence at J.C. Bose University of Science and Technology, YMCA.
 
 > My focus is not just training models — it's building complete AI solutions that can be tested, deployed, and improved.
 
@@ -63,15 +62,15 @@ I enjoy turning ideas into working systems, experimenting with different approac
 
 An AI-powered support workflow designed to investigate customer complaints and propose policy-grounded resolutions.
 
-**Key features**
+**Key Features**
 - LangGraph-based workflow orchestration
 - LLM-powered complaint classification
 - Policy retrieval using PostgreSQL and pgvector
 - Human approval before refund execution
-- Idempotency, validation, and audit trails
+- Validation, idempotency, and audit trails
 - FastAPI backend and automated evaluations
 
-**Tech:** Python, FastAPI, LangGraph, PostgreSQL, pgvector, SQLAlchemy
+**Tech Stack:** Python, FastAPI, LangGraph, PostgreSQL, pgvector, SQLAlchemy
 
 [**Explore Repository →**](https://github.com/vishalgola/customer-support-resolution-agent)
 
@@ -82,7 +81,7 @@ An AI-powered support workflow designed to investigate customer complaints and p
 
 An end-to-end machine learning project demonstrating a structured pipeline for vehicle insurance prediction.
 
-**Key features**
+**Key Features**
 - Data ingestion and validation
 - Data transformation and feature engineering
 - Model training and evaluation
@@ -90,87 +89,9 @@ An end-to-end machine learning project demonstrating a structured pipeline for v
 - Docker-based packaging
 - CI/CD workflow with GitHub Actions
 
-**Tech:** Python, Scikit-learn, MongoDB, Docker, FastAPI, GitHub Actions
+**Tech Stack:** Python, Scikit-learn, Docker, FastAPI, GitHub Actions
 
 [**Explore Repository →**](https://github.com/vishalgola/Vehicle-Insurance-system)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Music Genre Classification
-
-A deep learning application that classifies music into different genres using audio features and neural networks.
-
-**Key features**
-- Audio preprocessing
-- Mel-spectrogram generation
-- CNN-based classification
-- Chunk-based prediction and ensemble voting
-- Interactive application for audio uploads
-
-**Tech:** Python, TensorFlow, Keras, Librosa, Streamlit
-
-[**Explore Repository →**](https://github.com/vishalgola/Music_Genre_Classifier)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-
-A content-based recommendation system that identifies movies similar to a user's selected title.
-
-**Key features**
-- Text feature extraction
-- Bag-of-Words representation
-- Cosine similarity
-- Top-5 movie recommendations
-- Movie poster integration
-- Interactive web interface
-
-**Tech:** Python, Pandas, Scikit-learn, NLP, Streamlit
-
-[**Explore Repository →**](https://github.com/vishalgola/Movie-Recommender-System)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💬 WhatsApp Chat Analyzer
-
-A data analytics application that extracts insights from exported WhatsApp conversations.
-
-**Key features**
-- Message and user activity analysis
-- Timeline and activity visualizations
-- Word cloud generation
-- Emoji frequency analysis
-- Identification of peak activity periods
-
-**Tech:** Python, Pandas, Matplotlib, Seaborn, Streamlit
-
-[**Explore Repository →**](https://github.com/vishalgola/WhatsApp-Chat-Analyzer)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Financial Machine Learning
-
-During my machine learning internship, I worked on financial time-series modeling involving NIFTY50 market data.
-
-**Work included**
-- Three-day price-range classification using a stacked ensemble
-- Market-regime classification using a Hidden Markov Model
-- Model evaluation using F1-score and accuracy
-- Experiment tracking and model interpretability
-
-**Tech:** Python, Scikit-learn, MLflow, SHAP, Time-Series Analysis
-
-*Selected reported results: 64% F1-score for price-range classification; 81% accuracy and 78% F1-score for market-regime classification.*
 
 </td>
 </tr>
@@ -276,23 +197,15 @@ J.C. Bose University of Science and Technology, YMCA
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalgola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgola&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/vishalgola">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgola&theme=tokyonight&hide_border=true" alt="Vishal's GitHub Contribution Streak" width="70%"/>
+</a>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgola&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vishalgola/vishalgola/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<a href="https://github.com/vishalgola?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
 
 </div>
 
